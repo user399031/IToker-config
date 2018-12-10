@@ -6,9 +6,9 @@ spring:
       label: master
       server:
         git:
-          uri: https://github.com/user399031/IToker-config.git
+          uri: https://github.com/user399031/itoken-configs-cloud
           search-paths: respo
-          username: 1120264714@qq.com
+          username: user399031
           password: dage960815
 
 server:
